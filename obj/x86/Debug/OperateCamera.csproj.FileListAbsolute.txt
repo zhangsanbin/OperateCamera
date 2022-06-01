@@ -1,0 +1,57 @@
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.exe
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Controls.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Imaging.dll
+D:\学习\Visual Studio2010\程序\控制台应用程序\TestProject\OperateCamera\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.exe
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\bin\Debug\OperateCamera.exe
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\bin\Debug\OperateCamera.pdb
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\bin\Debug\AForge.Controls.dll
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\bin\Debug\AForge.dll
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\bin\Debug\AForge.Imaging.dll
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\bin\Debug\AForge.Video.dll
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\OperateCamera\OperateCamera\bin\Debug\OperateCamera.exe.config
+E:\Project\OperateCamera\bin\Debug\OperateCamera.exe.config
+E:\Project\OperateCamera\bin\Debug\OperateCamera.exe
+E:\Project\OperateCamera\bin\Debug\OperateCamera.pdb
+E:\Project\OperateCamera\bin\Debug\AForge.Controls.dll
+E:\Project\OperateCamera\bin\Debug\AForge.dll
+E:\Project\OperateCamera\bin\Debug\AForge.Imaging.dll
+E:\Project\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+E:\Project\OperateCamera\bin\Debug\AForge.Video.dll
+E:\Project\OperateCamera\bin\Debug\AForge.Video.FFMPEG.dll
+E:\Project\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+E:\Project\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+E:\Project\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.Cache
+E:\Project\OperateCamera\obj\x86\Debug\OperateCamera.exe
+E:\Project\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\OperateCamera.exe.config
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\OperateCamera.exe
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\OperateCamera.pdb
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\AForge.Controls.dll
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\AForge.dll
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\AForge.Imaging.dll
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\AForge.Video.DirectShow.dll
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\AForge.Video.dll
+C:\SHARE\DeskD\Project\OperateCamera\bin\Debug\AForge.Video.FFMPEG.dll
+C:\SHARE\DeskD\Project\OperateCamera\obj\x86\Debug\OperateCamera.Form1.resources
+C:\SHARE\DeskD\Project\OperateCamera\obj\x86\Debug\OperateCamera.Properties.Resources.resources
+C:\SHARE\DeskD\Project\OperateCamera\obj\x86\Debug\OperateCamera.csproj.GenerateResource.cache
+C:\SHARE\DeskD\Project\OperateCamera\obj\x86\Debug\OperateCamera.csproj.CoreCompileInputs.cache
+C:\SHARE\DeskD\Project\OperateCamera\obj\x86\Debug\OperateCamera.exe
+C:\SHARE\DeskD\Project\OperateCamera\obj\x86\Debug\OperateCamera.pdb
+C:\SHARE\DeskD\Project\OperateCamera\obj\x86\Debug\OperateCamera.csproj.CopyComplete
